@@ -2,3 +2,147 @@ body{
     font-family: 'Poppins', sans-serif;
 
 }
+
+.menu-bar{
+    margin-left: 50%;
+    margin-top: 34px;
+}
+.menu-list{
+    margin-right: 5%;
+
+}
+.menu-list li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 5%;
+    padding: 10px;
+}   
+
+.menu-list a{
+    text-decoration: none;
+    color: black;
+}
+
+/*====== Start Top banner section ====== */
+
+h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.top-banner{
+    height: 600px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.blue-highlight{
+    color: blue;
+}
+.orange-highlight{
+    color: #FC6701;
+}
+p{
+    color: gray;
+    margin-bottom: 50px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,salmon,tomato);
+    color: #ffffff;
+    padding: 15px 50px;
+    border-radius: 7px;
+}
+
+.cv-area{
+    height: 600px;
+}
+
+.project-area{
+    height: 700px;
+    background-color: #F8F9FC;
+}
+.project-area h3{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 40px;
+}
+.third-one{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding: 2%;
+    background-color: #fff;
+    height: 55%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px grey;
+}
+.third-one img{
+    width: 100%;
+    
+}
+.third-one h4{
+    font-size: 20px;
+}
+
+.work-inquiry{
+    height: 300px;
+}
+
+.work{
+    background-image: url(images/work.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    height: 100%;
+    font-size: 30px;
+    color: #ffffff;
+    margin: 30px 150px;
+}
+
+#chat{
+    margin-left: 60%;
+    margin-top:15%;
+    font size: 15px;
+}
+.title {
+    margin-left: 3%;
+}
+
+.contact{
+    height: 300px;
+}
+.contact h3{
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+.head-line{
+    font-size: 30px;
+    text-align: center;
+}
+.icon{
+    margin-left: 40%;
+    
+}
+.icon img{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    padding: 25px;
+}
